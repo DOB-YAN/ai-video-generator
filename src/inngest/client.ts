@@ -1,2 +1,1 @@
-import { Inngest } from "inngest";
-export const inngest = new Inngest({ id: "ai-shorts" });
+export const inngest = new Inngest("AI Video Generator");
