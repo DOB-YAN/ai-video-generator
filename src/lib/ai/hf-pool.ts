@@ -1,5 +1,3 @@
-export async function triggerHFPool(visualPrompt: string) {
-  // Placeholder for free video generation servers
-  console.log(`Generating video for: ${visualPrompt}`);
+export async function triggerHFPool(prompt: string) {
   return { url: "pending" };
 }
